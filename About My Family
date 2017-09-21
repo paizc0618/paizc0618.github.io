@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1><b>About My Family</b></h1>
+
+<style>
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+}
+</style>
+</head>
+<body>
+
+<table style="width:25%">
+  <tr>
+    <th>Name</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Mark Paiz</td>
+    <td>55</td>
+  </tr>
+  <tr>
+    <td>Lynn Paiz</td>
+    <td>53</td>
+  </tr>
+  <tr>
+    <td>Brycen Paiz</td>
+    <td>18</td>
+  </tr>
+</table>
+
+</body>
+</html>
