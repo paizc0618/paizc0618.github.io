@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+  
+<!-- BG -->
+  <style>  
+    body {
+        background-color: #9AB5BB;
+      
+    }
+  </style>
+  
+<!-- Meta data -->
+<head>
+  <title> Page Title </title>
+</head>
+  
+<body> 
+    <!-- Overall Container -->
+    <div id="container" style="width:900px">
+    
+        <!-- Header Subcontainer START -->
+        <div id="header" style="background-color:#9AB5BB;">
+            <h1><b>Welcome to the Website of Collin Paiz</b></h1>
+            <p><i>By Collin Paiz</i></p>
+        </div>
+        <!-- Header Subcontainer END -->
+      
+        <!-- Left Nav Menu START -->
+        <div id="nav">
+          <head>
+            <style>
+            body {
+            margin: 0;
+}
+            ul {
+              list-style-type: none;
+              margin: 0;
+              padding: 0;
+              width: 10%;
+              background-color: #9AB5BB;
+              position: fixed;
+              height: 100%;
+              overflow: auto;
+}
+            li a {
+              display: block;
+              color: #000;
+              padding: 8px 16px;
+              text-decoration: none;
+}
+            li a.active {
+              background-color: #4CAF50;
+              color: white;
+}
+            li a:hover:not(.active) {
+              background-color: #9AB5BB;
+              color: white;
+}
+</style>
+</head>
+<body>
+
+            <ul>
+              <li><a href="index.html">Home</a></li>
+              <li><a href="aboutmyfamily.html">About My Family</a></li>
+              <li><a href="mypersonalhobbies.html">My Personal Hobbies</a></li>
+              <li><a class="active" href="myfavoritemovie.html">My Favorite Movie</a></li>
+              <li><a href="myfavoritefood.html">My Favorite Food</a></li>
+            </ul>
+
+</body>
+</div>
+        <!-- Left Nav Menu END -->
+ 
+        <!-- Main Body Info START -->
+          <div id="content" style="background-color:#9AB5BB;block;height:500px;width:600px;float:right;">
+            
+          <body>
+            <h2>About Collin Paiz</h2>
+            <p1>My name is Collin Paiz, I am 16 years old (February 5, 2001) and I am in my Junior year of high school at Canyon Crest Academy located in Carmel Valley <i>(<a href="http://www.sduhsd.net">SDUHSD Link</a>)</i>. 
+            I was born in San Diego, California which is where I still live today. My life consists of golf, school and various computer activities that I partake in after my school work is done. I currently work at my parent's company, <i>Sherpa Clinical Packaging</i> where I help out in multiple ways. I am a technology enthusiast who loves to build computers and create diffrent 2D, 3D or video graphics in software such as Cinema4D, Adobe Photoshop, Adobe After Effects, etc. </p1>
+              <br>
+            <p2><img src="CCA Logo.jpg"style="width:300px;height:180px;"></p2>
+           </body>
+        </div>
+        <!-- Main Body Info END -->
+      
+    </div>
+    <!-- End Overall Container -->
+       
+</body>
+</html>
