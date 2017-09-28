@@ -65,7 +65,7 @@
               <li><a href="aboutmyfamily.html">About My Family</a></li>
               <li><a href="mypersonalhobbies.html">My Personal Hobbies</a></li>
               <li><a href="myfavoritemovie.html">My Favorite Movie</a></li>
-              <li><a class="active" href="myfavoritebook.html">My Favorite Food</a></li>
+              <li><a class="active" href="myfavoritebook.html">My Favorite Book</a></li>
             </ul>
 
 </body>
@@ -76,10 +76,23 @@
           <div id="content" style="background-color:#9AB5BB;block;height:500px;width:600px;float:right;">
             
           <body>
-            <h2>Code Talkers</h2>
-            <p1></p1>
+            <h2>No Country For Old Men Summary</h2>
+            <h3><i>By Cormac McCarthy</i></h3>
+            <p1>Cormac McCarthy's novel, <i>No Country For Old Men</i> follows a man named Llewelyn Moss as he escapes
+            a man named Anton Chigurh. While out hunting, Moss stumbles upon an extremely graphic crime scene. Dead bodies
+            were scattered on the ground and trucks were riddled with bullet holes. Inside one of the cars was a load of cash
+            that belonged to a mexican drug lord. Moss, who takes the money, soon found himself in pursuit by Anton Chigurh who
+            was sent out to recover the money. The story mainly follows the lives of Chigurh and Moss. The predator and the prey.
+            The hunter and the hunted. <i>(<a href="https://en.wikipedia.org/wiki/No_Country_for_Old_Men">No Country For Old Men Wiki Page</a>)</i>
+            <h2>No Country For Old Men Review</h2>
+            <p1>This is my favorite novel because of the intriguing story that grasps the reader with incredible details. In
+            the opening scene of the book, Moss' hunt is so well described that the reader can visualize the entire open landscape
+            that he settled on for his shooting. Another aspect of the book that interested me was the writing style. There was
+            a lot of slang and was written in a way that Moss himself would write. Very little sophistication stuck to the words
+            on the page would pulls the reader closer to who Moss was. The combination of the author's writing style and the sheer
+            carnage of the characters' actions made this one of my favorite books to read. 
               <br>
-            <p2><img src="CCA Logo.jpg"style="width:300px;height:180px;"></p2>
+            <p2><img src="Cormac_McCarthy_NoCountryForOldMen.jpg"style="width:220px;height:330px;"></p2>
            </body>
         </div>
         <!-- Main Body Info END -->
