@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
-    <style>  
+    <style>
+        <head>
         body {
             background-color: #9AB5BB;
       
@@ -13,7 +14,8 @@
         #header {
             background-color:#9AB5BB
         }
-        
+        </head>
+
         #nav {
         body {
             margin: 0;
