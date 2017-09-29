@@ -1,10 +1,8 @@
 <!DOCTYPE html>
 <html>
     <style>
-        <head>
         body {
             background-color: #9AB5BB;
-      
         }
         
         #container {
@@ -14,7 +12,6 @@
         #header {
             background-color:#9AB5BB
         }
-        </head>
 
         #content {
             background-color:#9AB5BB;
@@ -23,9 +20,6 @@
             width:600px;
             float:right;
         }
-        
-        
-    
     </style>
 </html>
   
